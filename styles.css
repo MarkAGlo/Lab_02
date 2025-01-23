@@ -10,9 +10,30 @@ footer p {
     padding: 10px 20px;            /* Adds space inside the element */
     margin: 20px 0;                /* Adds space outside the element */
     border: 2px solid #D35F00;     /* Adds a border with color*/
-    background-color: #FFCC80;     /* background color */
+    background-color: #FFCC80;     /* background color of the boarder */
     color: #52796f;                /* font color */
     text-align: center;            /* Centers the text */
     border-radius: 8px;            /* Rounds border */
     
+  }
+
+/* class that puts everything as a block */
+.display-block {
+    display: block;
+  }
+  
+  /*in-line class, puts together inline */
+  .display-inline {
+    display: inline;
+  }
+  
+  
+  /* inline block*/
+  .display-inline-block {
+    display: inline-block;
+  }
+  
+  /* Define display-none class */
+  .display-none {
+    display: none;
   }
