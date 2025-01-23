@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    color: #52796f;
+    font-size: 100;
+    background-color: #d39d78 ;
+}
+
+footer p {
+    padding: 10px 20px;            /* Adds space inside the element */
+    margin: 20px 0;                /* Adds space outside the element */
+    border: 2px solid #D35F00;     /* Adds a border with color*/
+    background-color: #FFCC80;     /* background color */
+    color: #52796f;                /* font color */
+    text-align: center;            /* Centers the text */
+    border-radius: 8px;            /* Rounds border */
+    
+  }
